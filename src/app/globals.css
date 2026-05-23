@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #000000;
+  --color-foreground: #ffffff;
+  --color-accent: #22c55e; /* Neon green */
+  --color-accent-blue: #0284c7; /* Electric blue */
+  --color-accent-crimson: #ef4444; /* Crimson */
+  --color-card-bg: #0b0b0b;
+  --color-card-border: #1a1a1a;
+  
+  --font-sans: var(--font-geist-sans), Inter, sans-serif;
+  --font-mono: var(--font-geist-mono), monospace;
+}
+
+:root {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1a1a1a;
+  border: 1px solid #000000;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #22c55e;
+}
+
+/* Brutalist UI styling sheet */
+.brutalist-card {
+  background: #0b0b0b;
+  border: 2px solid #1a1a1a;
+  box-shadow: 0px 0px 0px 0px rgba(34, 197, 94, 0);
+  transition: all 0.25s cubic-bezier(0.19, 1, 0.22, 1);
+  position: relative;
+}
+
+.brutalist-card:hover {
+  border-color: #22c55e;
+  box-shadow: 6px 6px 0px 0px #22c55e;
+  transform: translate(-3px, -3px);
+}
+
+.brutalist-card-blue:hover {
+  border-color: #0284c7;
+  box-shadow: 6px 6px 0px 0px #0284c7;
+  transform: translate(-3px, -3px);
+}
+
+.brutalist-card-crimson:hover {
+  border-color: #ef4444;
+  box-shadow: 6px 6px 0px 0px #ef4444;
+  transform: translate(-3px, -3px);
+}
+
+/* Cyber OS scanline texture overlay */
+.tech-grid {
+  background-size: 30px 30px;
+  background-image: 
+    linear-gradient(to right, rgba(26, 26, 26, 0.35) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(26, 26, 26, 0.35) 1px, transparent 1px);
+  position: relative;
+}
+
+/* Dot matrices */
+.dot-grid {
+  background-size: 15px 15px;
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+}
+
+/* Kinetic ticker animations */
+@keyframes ticker-anim {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.ticker-wrap {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.ticker-content {
+  display: inline-block;
+  animation: ticker-anim 25s linear infinite;
+}
+
+/* Cyber OS scanline effect */
+.scanlines {
+  position: relative;
+  overflow: hidden;
+}
+
+.scanlines::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  z-index: 2;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}

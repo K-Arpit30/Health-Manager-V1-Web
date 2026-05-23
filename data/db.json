@@ -1,0 +1,693 @@
+{
+  "users": {
+    "arpit05.lfs@gmail.com": {
+      "email": "arpit05.lfs@gmail.com",
+      "passwordHash": "$2b$10$sHrxHeI.AWZk4BL/9w8z3ezR0GxWNYcFz3CijiANcyJlR18qslcH2",
+      "name": "Arpit"
+    }
+  },
+  "data": {
+    "arpit05.lfs@gmail.com": {
+      "profile": {
+        "name": "Arpit",
+        "gender": "Male",
+        "age": 21,
+        "height": 180,
+        "startingWeight": 90,
+        "currentWeight": 90,
+        "targetWeight": 78,
+        "startingBodyFat": 30,
+        "currentBodyFat": 30,
+        "targetBodyFat": 18,
+        "startDate": "2026-05-12",
+        "currentDayNum": 13,
+        "calorieTarget": 1850,
+        "proteinTarget": 200,
+        "carbsTarget": 125,
+        "fatTarget": 50,
+        "waterTarget": 4000,
+        "stepsTarget": 12000
+      },
+      "dailyLogs": [
+        {
+          "date": "2026-05-12",
+          "weight": 89.8,
+          "bodyFat": 29.8,
+          "waterIntake": 4138,
+          "steps": 12150,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 77,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Push",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 61,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 61,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 66,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-13",
+          "weight": 89.7,
+          "bodyFat": 29.7,
+          "waterIntake": 4315,
+          "steps": 13598,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 81,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Pull",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 62,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 62,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 67,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 93
+        },
+        {
+          "date": "2026-05-14",
+          "weight": 89.5,
+          "bodyFat": 29.5,
+          "waterIntake": 4015,
+          "steps": 11826,
+          "sleepHours": 8,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 85,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Legs",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 63,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 63,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 68,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-15",
+          "weight": 89.3,
+          "bodyFat": 29.3,
+          "waterIntake": 3826,
+          "steps": 11925,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 77,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Upper",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 64,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 64,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 69,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-16",
+          "weight": 89.2,
+          "bodyFat": 29.2,
+          "waterIntake": 3705,
+          "steps": 13696,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 91,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Conditioning",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 65,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 65,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 70,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 93
+        },
+        {
+          "date": "2026-05-17",
+          "weight": 89,
+          "bodyFat": 29,
+          "waterIntake": 4351,
+          "steps": 12069,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 81,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": false,
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-18",
+          "weight": 88.9,
+          "bodyFat": 28.9,
+          "waterIntake": 3506,
+          "steps": 13183,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 78,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": false,
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-19",
+          "weight": 88.7,
+          "bodyFat": 28.7,
+          "waterIntake": 4181,
+          "steps": 14247,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 85,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Legs",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 68,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 68,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 73,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 93
+        },
+        {
+          "date": "2026-05-20",
+          "weight": 88.5,
+          "bodyFat": 28.5,
+          "waterIntake": 4085,
+          "steps": 13590,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 86,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Upper",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 69,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 69,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 74,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-21",
+          "weight": 88.4,
+          "bodyFat": 28.4,
+          "waterIntake": 4364,
+          "steps": 13309,
+          "sleepHours": 8,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 86,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Conditioning",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 70,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 70,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 75,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 93
+        },
+        {
+          "date": "2026-05-22",
+          "weight": 88.2,
+          "bodyFat": 28.2,
+          "waterIntake": 3799,
+          "steps": 14361,
+          "sleepHours": 6,
+          "sleepQuality": "Good",
+          "soreness": "Low",
+          "recoveryScore": 75,
+          "mealsChecked": [
+            "b1",
+            "b2",
+            "b3",
+            "b4",
+            "e1",
+            "e2",
+            "l1",
+            "l2",
+            "l3",
+            "pw1",
+            "d1",
+            "d2",
+            "d3"
+          ],
+          "supplementsChecked": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "workoutCompleted": true,
+          "workoutSession": {
+            "splitName": "Push",
+            "completed": true,
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": [
+                  {
+                    "reps": 10,
+                    "weight": 71,
+                    "completed": true
+                  },
+                  {
+                    "reps": 10,
+                    "weight": 71,
+                    "completed": true
+                  },
+                  {
+                    "reps": 8,
+                    "weight": 76,
+                    "completed": true
+                  }
+                ]
+              }
+            ]
+          },
+          "adherenceScore": 100
+        },
+        {
+          "date": "2026-05-23",
+          "weight": 90,
+          "bodyFat": 30,
+          "waterIntake": 0,
+          "steps": 0,
+          "sleepHours": 7,
+          "sleepQuality": "Good",
+          "soreness": "None",
+          "recoveryScore": 85,
+          "mealsChecked": [],
+          "supplementsChecked": [],
+          "workoutCompleted": false,
+          "adherenceScore": 0
+        }
+      ],
+      "photos": [
+        {
+          "date": "2026-05-12",
+          "front": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"500\" viewBox=\"0 0 400 500\"><rect width=\"100%\" height=\"100%\" fill=\"%230f0f11\"/><circle cx=\"200\" cy=\"120\" r=\"40\" fill=\"%233f3f46\"/><path d=\"M150,180 Q200,200 250,180 L270,360 L240,480 L160,480 L130,360 Z\" fill=\"%233f3f46\"/><rect x=\"135\" y=\"210\" width=\"130\" height=\"80\" rx=\"40\" fill=\"%2327272a\"/><text x=\"200\" y=\"44\" fill=\"%23ffffff\" font-family=\"monospace\" font-size=\"20\" font-weight=\"bold\" text-anchor=\"middle\">DAY 1 - START</text><text x=\"200\" y=\"240\" fill=\"%23a3e635\" font-family=\"monospace\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Weight: 90.0 kg</text><text x=\"200\" y=\"260\" fill=\"%23a3e635\" font-family=\"monospace\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Est. Fat: 30%</text></svg>"
+        },
+        {
+          "date": "2026-05-19",
+          "front": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"500\" viewBox=\"0 0 400 500\"><rect width=\"100%\" height=\"100%\" fill=\"%230f0f11\"/><circle cx=\"200\" cy=\"120\" r=\"40\" fill=\"%2352525b\"/><path d=\"M160,180 Q200,190 240,180 L255,360 L230,480 L170,480 L145,360 Z\" fill=\"%2352525b\"/><rect x=\"150\" y=\"215\" width=\"100\" height=\"70\" rx=\"35\" fill=\"%2327272a\"/><text x=\"200\" y=\"44\" fill=\"%23ffffff\" font-family=\"monospace\" font-size=\"20\" font-weight=\"bold\" text-anchor=\"middle\">DAY 8 - PROGRESS</text><text x=\"200\" y=\"240\" fill=\"%23a3e635\" font-family=\"monospace\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Weight: 88.8 kg</text><text x=\"200\" y=\"260\" fill=\"%23a3e635\" font-family=\"monospace\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Est. Fat: 28.9%</text></svg>"
+        }
+      ]
+    }
+  }
+}
